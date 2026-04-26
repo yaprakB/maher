@@ -9,163 +9,244 @@
       "id": "1",
       "ar": "أرسل أمنية",
       "en": "Arsil Amniya",
-      "duration": "00:11"
+      "duration": "00:11",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "2",
       "ar": "أمي",
       "en": "Ummi",
-      "duration": "04:49"
+      "duration": "04:49",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "3",
       "ar": "إن شاء الله",
       "en": "In Sha Allah",
-      "duration": "04:22"
+      "duration": "04:22",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "4",
       "ar": "الحب يسود",
       "en": "Al Hubb Yasud",
-      "duration": "05:35"
+      "duration": "05:35",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "5",
       "ar": "السلام عليك",
       "en": "As Salam Alayik",
-      "duration": "02:46"
+      "duration": "02:46",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "6",
       "ar": "الصبح بدا",
       "en": "As Subh Bada",
-      "duration": "05:53"
+      "duration": "05:53",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "7",
       "ar": "الله يا مولانا",
       "en": "Allah Ya Mawlana",
-      "duration": "04:14"
+      "duration": "04:14",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "8",
       "ar": "ان شاء الله",
       "en": "In Sha Allah",
-      "duration": "04:13"
+      "duration": "04:13",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "9",
       "ar": "حر",
       "en": "Hurr",
-      "duration": "03:55"
+      "duration": "03:55",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "10",
       "ar": "دائما هناك",
       "en": "Da'iman Hunak",
-      "duration": "03:55"
+      "duration": "03:55",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "11",
       "ar": "رضيت بالله ربا",
       "en": "Radiyt Billah Rabba",
-      "duration": "05:42"
+      "duration": "05:42",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "12",
       "ar": "رضيت بالله",
       "en": "Radiyt Billah",
-      "duration": "01:59"
+      "duration": "01:59",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "13",
       "ar": "رمضان جانا",
       "en": "Ramadan Jana",
-      "duration": "05:34"
+      "duration": "05:34",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "14",
       "ar": "سامح انت الرابح",
       "en": "Samih Anta Al Rahi",
-      "duration": "04:27"
+      "duration": "04:27",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "15",
       "ar": "سبحانك ربي",
       "en": "Subhanaka Rabbi",
-      "duration": "09:12"
+      "duration": "09:12",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "16",
       "ar": "سلام الله",
       "en": "Salam Allah",
-      "duration": "06:34"
+      "duration": "06:34",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "17",
       "ar": "كن رحمة",
       "en": "Kun Rahma",
-      "duration": "05:36"
+      "duration": "05:36",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "18",
       "ar": "لولاك",
       "en": "Lawlak",
-      "duration": "05:36"
+      "duration": "05:36",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "19",
       "ar": "ماهر زين حب النبي",
       "en": "Maher Zain Hubb An Nabi",
-      "duration": "04:02"
+      "duration": "04:02",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "20",
       "ar": "ماهر زين مولاي",
       "en": "Maher Zain Mawlay",
-      "duration": "05:42"
+      "duration": "05:42",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "21",
       "ar": "مسرحية",
       "en": "Masrahiya",
-      "duration": "04:47"
+      "duration": "04:47",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "22",
       "ar": "مولايا",
       "en": "Mawlaya",
-      "duration": "05:50"
+      "duration": "05:50",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "23",
       "ar": "ناس تشبه لينا",
       "en": "Nas Tashabba Lina",
-      "duration": "05:01"
+      "duration": "05:01",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "24",
       "ar": "وحشنا يا رسول الله",
       "en": "Wahshana Ya Rasul Allah",
-      "duration": "05:02"
+      "duration": "05:02",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "25",
       "ar": "يا النبي",
       "en": "Ya An Nabi",
-      "duration": "04:47"
+      "duration": "04:47",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "26",
       "ar": "يا نبي سلام عليك",
       "en": "Ya Nabi Assalam Alayik",
-      "duration": "07:22"
+      "duration": "07:22",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "27",
       "ar": "يا نبي",
       "en": "Ya Nabi",
-      "duration": "04:53"
+      "duration": "04:53",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     }
   ]
 }
